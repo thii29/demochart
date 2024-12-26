@@ -1,6 +1,8 @@
 # ApexChart
 More information about chart library: https://apexcharts.com/docs/installation/
+
 "apexcharts": "^4.3.0",
+
 "react-apexcharts": "^1.7.0",
 # Getting Started with Create React App
 
